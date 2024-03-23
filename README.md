@@ -1,1 +1,1 @@
-# dijkstra_fibonacci
+# dijkstra_shortest_path
